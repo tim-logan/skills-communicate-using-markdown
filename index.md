@@ -12,3 +12,15 @@
 * To add an image, type `![Description](url)`. Make sure to inlcude the `!` beforehand.
   
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+---
+
+## Code Blocks
+* Add a code block by enclosing the source code between ` ``` python` and ` ``` `.
+* **NOTE:** You can add other languages for formatting (e.g. ` ``` javascript`) or omit it.
+
+``` python
+# Displays a message to the user
+name = "Tim"
+print(f"Hello, {name}")
+```
