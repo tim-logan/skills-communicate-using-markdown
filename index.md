@@ -24,3 +24,14 @@
 name = "Tim"
 print(f"Hello, {name}")
 ```
+
+---
+
+## Task Lists
+* You can create checkboxes by typing `- [ ]` for unchecked and `- [X]` for checked tasks.
+
+### To-Do List
+- [X] Become the world's coolest uncle
+- [X] Teach a kangaroo how to code
+- [ ] Jump 5-times from the Earth to the Moon
+      
